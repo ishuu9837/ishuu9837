@@ -16,16 +16,20 @@ I am a passionate Machine Learning Engineer with experience in developing soluti
 ---
 
 ### 🔭 What I’m working on:
-- Building advanced ML models with AWS and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+- Building advanced ML models with AWS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" /> and PYTORCH <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
   <img width="12" />.
 - Enhancing my knowledge in data visualization with Power BI.
-- Full-stack projects using Django and JavaScript.
+- Full-stack projects using Django and JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />.
 
 ---
 
 ### 🌱 What I’m learning:
-- **Advanced Cloud Deployment**: Diving deeper into AWS cloud infrastructure.
-- **Real-Time Data Processing**: Expanding knowledge in PyTorch and Scikit-learn.
+- **Advanced Cloud Deployment**: Diving deeper into AWS<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" /> cloud infrastructure.
+- **Real-Time Data Processing**: Expanding knowledge in PyTorch<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />. and Scikit-learn.
 
 ---
 
