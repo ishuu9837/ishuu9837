@@ -1,6 +1,4 @@
-<h3 align="center">Hello Mates💫!!!<br>My name is Y ESWAR🚀<br>I'm a AIML ENGINEER 👨‍💻</h3>
-
-
+# Hi there, I'm [Y ESWAR]🌟-ML Engineer
 If you're looking for someone who not only delivers high-quality, data-driven results but also loves turning complex problems into simple, elegant solutions—let’s connect!
 
 <div style="display: flex; justify-content: space-around;height:70%; width: 100%;">
