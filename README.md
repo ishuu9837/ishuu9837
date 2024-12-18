@@ -1,4 +1,4 @@
-# Hi there, I'm [Y ESWAR] As a Machine Learning Engineer with a strong passion for innovation and problem-solving, I thrive on building solutions that make a real-world impact. With hands-on experience in AWS, Python, PyTorch, and Django, I specialize in developing scalable machine learning models and full-stack applications. My drive to continuously learn and collaborate with cross-functional teams has fueled my journey, and I’m excited to bring my technical expertise and enthusiasm for cutting-edge technologies to the next challenge.
+# Hi there, I'm [Y ESWAR] As a Machine Learning Engineer with a strong passion for innovation and problem-solving.
 
 If you're looking for someone who not only delivers high-quality, data-driven results but also loves turning complex problems into simple, elegant solutions—let’s connect!
 
