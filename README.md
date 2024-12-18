@@ -1,9 +1,9 @@
   # Hello!!!, I'm [Y ESWAR]💫
-Machine Learning Engineer with a strong passion for innovation and problem-solving.
+ # Machine Learning Engineer with a strong passion for innovation and problem-solving.
 
 If you're looking for someone who not only delivers high-quality, data-driven results but also loves turning complex problems into simple, elegant solutions—let’s connect!
 
-<div style="display: flex; justify-content: space-around;height:50% width: 100%;">
+<div style="display: flex; justify-content: space-around;height:20% width: 100%;">
 
   <img src="https://media.giphy.com/media/vA2EUQWPNSfCg/giphy.gif?cid=790b76112e0cgy1upi36tev6fguf7yrf1k70k1jf84g76uv8&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF 1" width="45%" />
   
