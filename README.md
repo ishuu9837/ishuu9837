@@ -33,8 +33,10 @@ I’ve always been fascinated by space exploration 🌌 and love to automate thi
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Connect with Me!
+
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar854/)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ishuu.me/)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eswaryadav8543@gmail.com)
 - ![GitHub followers](https://img.shields.io/github/followers/ishuu9837?style=social)
 
