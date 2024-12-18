@@ -16,7 +16,8 @@ I am a passionate Machine Learning Engineer with experience in developing soluti
 ---
 
 ### 🔭 What I’m working on:
-- Building advanced ML models with AWS and PyTorch.
+- Building advanced ML models with AWS and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />.
 - Enhancing my knowledge in data visualization with Power BI.
 - Full-stack projects using Django and JavaScript.
 
