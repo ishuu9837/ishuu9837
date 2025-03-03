@@ -1,4 +1,4 @@
-# Hi there, I'm [Y ESWAR]🌟-ML Engineer
+# Hi there, I'm [Y ESWAR]🌟-Data Scientist
 If you're looking for someone who not only delivers high-quality, data-driven results but also loves turning complex problems into simple, elegant solutions...let’s connect!
 
 <div style="display: flex; justify-content: space-around; height: 50%; width: 100%;">
@@ -20,29 +20,28 @@ If you're looking for someone who not only delivers high-quality, data-driven re
 
 ---
 
+# Job Simulation Experience
 
-# Forage-Certifications
+## 1-PwC Switzerland's Power BI on Forage. In the simulation I:
 
-## 1- completed PwC Switzerland's Power BI on Forage. In the simulation I:
+🚀 **Completed a job simulation**: Strengthened **![Power BI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg)** skills to better understand clients' data visualization needs.
 
--Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
+📊 **Data Visualization**: Demonstrated expertise by creating effective **![Power BI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg)** dashboards that clearly conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
 
--Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
+✉️ **Communication Skills**: Strong written communication was reflected in concise and informative email correspondence with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
 
--Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
-
--Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a 
- commitment to data-driven decision-making.
+🔍 **Analytical Problem-Solving**: Leveraged analytical skills to examine **HR data**, with a focus on gender-related KPIs. Identified root causes for gender balance issues at the executive management level, demonstrating a commitment to data-driven decision-making.
  
 Check out the simulation : [Click Here ](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg)
 
 ## 2- AWS APAC Solutions Architecture virtual experience program on Forage - March 2025
 
--completed AWS APAC's Solutions Architecture on Forage. In the simulation I:
+🌐 **Completed AWS APAC's Solutions Architecture on Forage**:
+In the simulation, I:
 
--Designed and simple and scalable hosting architecture based on Elastic Beanstalk for a client experiencing significant growth and slow response times.
+🚀 **Designed a scalable hosting architecture**: Created a simple and scalable hosting architecture based on **[Elastic Beanstalk](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg)** for a client experiencing significant growth and slow response times.
 
--Described my proposed architecture in plain language ensuring my client understood how it works and how costs will be calculated for it.
+💬 **Client Communication**: Explained the proposed architecture in plain language, ensuring the client understood how it works and how costs will be calculated for it.
 
 -Check out the simulation : [Click Here](https://www.theforage.com/simulations/aws-apac/solutions-architecture-ts4o)
 
