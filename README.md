@@ -39,9 +39,7 @@ Check out the simulation : [Click Here ](https://www.theforage.com/simulations/p
 🌐 **Completed AWS APAC's Solutions Architecture on Forage**:
 
 In the simulation, I:
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
           
-
 🚀 **Designed a scalable hosting architecture**: Created a simple and scalable hosting architecture based on Elastic Beanstalk for a client experiencing significant growth and slow response times.
 
 💬 **Client Communication**: Explained the proposed architecture in plain language, ensuring the client understood how it works and how costs will be calculated for it.
