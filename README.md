@@ -24,9 +24,9 @@ If you're looking for someone who not only delivers high-quality, data-driven re
 
 ## 1-PwC Switzerland's Power BI on Forage. In the simulation I:
 
-🚀 **Completed a job simulation**: Strengthened **![Power BI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg)** skills to better understand clients' data visualization needs.
+🚀 **Completed a job simulation**: Strengthened **![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)** skills to better understand clients' data visualization needs.
 
-📊 **Data Visualization**: Demonstrated expertise by creating effective **![Power BI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg)** dashboards that clearly conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
+📊 **Data Visualization**: Demonstrated expertise by creating effective **![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)** dashboards that clearly conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
 
 ✉️ **Communication Skills**: Strong written communication was reflected in concise and informative email correspondence with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
 
