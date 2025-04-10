@@ -3,9 +3,6 @@ If you're looking for someone who not only delivers high-quality, data-driven re
 
 <div style="display: flex; justify-content: space-around; height: 50%; width: 100%;">
 
-  <img src="https://media.giphy.com/media/vA2EUQWPNSfCg/giphy.gif?cid=790b76112e0cgy1upi36tev6fguf7yrf1k70k1jf84g76uv8&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF 1" width="45%" height="auto" />
-  
-  <img src="https://media.giphy.com/media/UUNlWv7pmr516/giphy.gif?cid=ecf05e47a7hhxaaiy9842q42vgkbba7qowg9dxv19hon7bsj&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF 2" width="45%" height="auto" />
 
 </div>
 
