@@ -1,7 +1,7 @@
 #
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Y+Eswar+👋;Data+Scientist+%7C+Gen+AI+Trainer;Python+Developer+%7C+ML+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Y+Eswar+👋;Data+Scientist+%7C+Gen+AI+Trainer;Python+Developer+%7C+ML+Engineer" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  Passionate Data Scientist and Gen AI Trainer with a knack for transforming complex datasets into actionable insights. I specialize in building robust machine learning models, designing intelligent automation scripts, and crafting dynamic data visualizations. If you're looking for someone who not only delivers high-quality, data-driven results but also loves turning complex problems into simple, elegant solutions... let’s connect!
+  🚀 Passionate <strong>Data Scientist</strong> and <strong>Gen AI Trainer</strong> with a knack for transforming complex datasets into actionable insights.<br>
+  💡 I specialize in building robust machine learning pipelines, crafting intelligent automation scripts, and delivering compelling data visualizations.<br>
+  🎯 If you're looking for someone who delivers high-impact, data-driven solutions—and enjoys turning hard problems into elegant answers—<strong>let’s connect</strong>!
 </p>
-
----
 
 ## 🛠️ My Tech Stack
 
