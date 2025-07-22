@@ -31,62 +31,123 @@ If you're looking for someone who not only delivers high-quality, data-driven re
 
 | Institution | Duration | Qualification | Result |
 |------------|----------|---------------|--------|
-|  **CRR Secondary School**, Kurnool | 2018–2019 | 10th Grade | 76.6% |
-|  **Sri Chaitanya Jr College**, Vijayawada | 2019–2021 | Intermediate (MPC) | 86.4% |
-|  **Parul University**, Vadodara | 2021–2025 | B.Tech – Computer Science (Artificial Intelligence) | 7.13 CGPA |
+|  **CRR Secondary School**, Kurnool |  10th Grade | 76.6% |
+|  **Sri Chaitanya Jr College**, Vijayawada |  Intermediate (MPC) | 86.4% |
+|  **Parul University**, Vadodara |  B.Tech – Computer Science (Artificial Intelligence) | 7.13 CGPA |
 |  **Intellipaat (Online)** | Jan 2025 – Present | Advanced Certification in Data Science & ML | In Progress |
 
 
 ---
 
-# Job Simulation Experience
+## 💼 Job Simulation Experience
 
-## 1-PwC Switzerland's Power BI on Forage. In the simulation I:
+### 1. [PwC Switzerland – Power BI Virtual Experience (Forage)](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg)
+📍 *Remote | Completed: 2025*
 
-🚀 **Completed a job simulation**: Strengthened **![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)** skills to better understand clients' data visualization needs.
-
-📊 **Data Visualization**: Demonstrated expertise by creating effective **![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)** dashboards that clearly conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
-
-✉️ **Communication Skills**: Strong written communication was reflected in concise and informative email correspondence with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
-
-🔍 **Analytical Problem-Solving**: Leveraged analytical skills to examine **HR data**, with a focus on gender-related KPIs. Identified root causes for gender balance issues at the executive management level, demonstrating a commitment to data-driven decision-making.
- 
-Check out the simulation : [Click Here ](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg)
-
-## 2- AWS APAC Solutions Architecture virtual experience program on Forage - March 2025
-
-🌐 **Completed AWS APAC's Solutions Architecture on Forage**:
-
-In the simulation, I:
-          
-🚀 **Designed a scalable hosting architecture**: Created a simple and scalable hosting architecture based on Elastic Beanstalk for a client experiencing significant growth and slow response times.
-
-💬 **Client Communication**: Explained the proposed architecture in plain language, ensuring the client understood how it works and how costs will be calculated for it.
-
-Check out the simulation : [Click Here](https://www.theforage.com/simulations/aws-apac/solutions-architecture-ts4o)
-
-
+- ✅ Completed a client-facing data visualization project simulating a PwC engagement.
+- 📊 Built dynamic **Power BI dashboards** addressing client KPIs and gender balance metrics.
+- 🧠 Analyzed HR datasets to identify gender disparity at executive levels.
+- ✉️ Delivered insights via professional emails, emphasizing clear communication and data-driven decisions.
 
 ---
-### 🛠️ Projects:
 
-1. **Real-Time Face Detection (Jan 2024 - Oct 2024)**  
-   - **Role**: Python Developer  
-   - **Technologies**:  
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-     ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>  
-   - **Description**: Developed a real-time face detection system using OpenCV, capable of identifying faces with high accuracy in real-time video streams. Managed data preprocessing, real-time analytics, and implemented SQL-based database storage for face records.
+### 2. [AWS APAC – Solutions Architecture Virtual Experience (Forage)](https://www.theforage.com/simulations/aws-apac/solutions-architecture-ts4o)
+📍 *Remote | Completed: March 2025*
 
-2. **Galaxy Glide (Jan 2023 - Oct 2023)**  
-   - **Role**: Front-end Developer  
-   - **Technologies**:  
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
-   - **Description**: Created an immersive front-end for the web application "Galaxy Glide." Integrated AI tools for enhanced user interactions and implemented optimizations to improve website load times and performance across multiple platforms.
+- 🏗️ Designed a **scalable architecture** using **AWS Elastic Beanstalk** for high-traffic web hosting.
+- 💬 Communicated technical designs to a non-technical client audience, explaining cost efficiency and performance.
+
+---
+
+## 🧪 Internship & Freelance Experience
+
+### **Python Developer Intern** – Slash Mark IT Solutions (OPC) Pvt. Ltd  
+📍 Remote | 📅 Jan 2025 – Apr 2025
+
+- Built Python-based automation scripts for client applications.  
+- Worked on data handling, APIs, and task optimization.
+
+---
+
+### **Freelance Researcher** – Fiverr  
+📍 Remote | 📅 Nov 2024 – May 2025
+
+- Delivered custom statistical analyses for academic and business clients.  
+- Specialized in data cleaning, regression analysis, and research consulting.
+
+---
+
+### **Personal Tutor (Maths & Stats)** – Freelancer.com  
+📍 Remote | 📅 Jan 2025 – Jul 2025
+
+- Taught Mathematics, Statistics, and Python basics to global students.  
+- Designed personalized learning paths and interactive lessons.
+
+---
+
+### **Python Developer Intern** – OctaNet Services Pvt. Ltd  
+📍 Remote | 📅 May 2024 – Jun 2024
+
+- Focused on Python scripting, package management (PIP), and task automation.  
+- Supported small-scale product development and debugging.
+
+---
+
+### **Final Year Project: Python Developer & Data Analyst** – Self-employed  
+📍 Vadodara, Gujarat | 📅 Aug 2024 – Dec 2024
+
+- Developed a Python-based data analytics project.  
+- Tools used: Pandas, NumPy, Matplotlib; emphasis on data storytelling and dashboarding.
+
+---
+### 🛠️ Projects
+
+---
+
+#### 1. [Real-Time Face Detection](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION)  
+📅 *Jan 2024 – Dec 2024* | 🎓 *Final Year Project*  
+**Role**: Python Developer  
+**Skills**: Python, OpenCV, MongoDB, HTML5, CSS, Front-End Development  
+**Tools**:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/>  
+- Developed and optimized algorithms for **real-time face detection** using OpenCV.
+- Achieved a **30% processing speed boost** with frame detection exceeding **1,000+ FPS**.
+- Implemented **MongoDB** to store detected face data records.
+- Integrated basic web front-end for accessing the logs and status interface.
+
+---
+
+#### 2. [Galaxy Glide](https://github.com/ishuu9837/GALAXY-GLIDE)  
+📅 *Jan 2024 – Dec 2024*  
+**Role**: Front-End Developer  
+**Skills**: HTML, CSS, JavaScript, TypeScript  
+**Tools**:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+- Designed and developed responsive UI for the **“Galaxy Glide”** project.
+- **Improved page load time by 40%** and boosted user engagement by 35%.
+- Utilized **modern front-end practices** and ensured cross-device optimization.
+
+---
+
+#### 3. [Netflix Content Recommendation](https://github.com/ishuu9837/NETFLIX-CONTENT-RECOMMENDATION)  
+📅 *Jan 2024*  
+**Role**: Machine Learning Engineer  
+**Skills**: Python, Pandas, NumPy, Data Visualization  
+**Tools**:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>
+- Built a **content-based recommendation system** using historical viewing data.
+- Implemented data preprocessing, correlation analysis, and filtering algorithms.
+- Delivered personalized suggestions based on user watch patterns.
+
+---
+
 
 
 
