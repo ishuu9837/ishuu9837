@@ -34,7 +34,7 @@ If you're looking for someone who not only delivers high-quality, data-driven re
 |  **CRR Secondary School**, Kurnool |  10th Grade | 76.6% |
 |  **Sri Chaitanya Jr College**, Vijayawada |  Intermediate (MPC) | 86.4% |
 |  **Parul University**, Vadodara |  B.Tech – Computer Science (Artificial Intelligence) | 7.13 CGPA |
-|  **Intellipaat (Online)** | Jan 2025 – Present | Advanced Certification in Data Science & ML | In Progress |
+|  **Intellipaat (Online)** | Advanced Certification in Data Science & ML | In Progress |
 
 
 ---
