@@ -132,9 +132,7 @@ A quick overview of the tools and technologies I work with.
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishuu9837&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Y Eswar's GitHub Stats" />
-  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishuu9837&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
