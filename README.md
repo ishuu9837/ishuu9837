@@ -1,4 +1,5 @@
 # Hi there, I'm [Y ESWAR]🌟-Data Scientist
+**Intellipaat (Online) as Gen AI trainer**
 If you're looking for someone who not only delivers high-quality, data-driven results but also loves turning complex problems into simple, elegant solutions...let’s connect!
 
 <div style="display: flex; justify-content: space-around; height: 50%; width: 100%;">
@@ -28,10 +29,10 @@ If you're looking for someone who not only delivers high-quality, data-driven re
 
 | Institution | Duration | Qualification | Result |
 |------------|----------|---------------|--------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/School_icon.svg" width="25"/> **CRR Secondary School**, Kurnool | 2018–2019 | 10th Grade | 76.6% |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Sri_Chaitanya_Techno_Schools_logo.png" width="25"/> **Sri Chaitanya Jr College**, Vijayawada | 2019–2021 | Intermediate (MPC) | 86.4% |
-| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Parul_University_logo.png/220px-Parul_University_logo.png" width="25"/> **Parul University**, Vadodara | 2021–2025 | B.Tech – Computer Science (Artificial Intelligence) | 7.13 CGPA |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Intellipaat_Logo.png" width="25"/> **Intellipaat (Online)** | Jan 2025 – Present | Advanced Certification in Data Science & ML | In Progress |
+|  **CRR Secondary School**, Kurnool | 2018–2019 | 10th Grade | 76.6% |
+|  **Sri Chaitanya Jr College**, Vijayawada | 2019–2021 | Intermediate (MPC) | 86.4% |
+|  **Parul University**, Vadodara | 2021–2025 | B.Tech – Computer Science (Artificial Intelligence) | 7.13 CGPA |
+|  **Intellipaat (Online)** | Jan 2025 – Present | Advanced Certification in Data Science & ML | In Progress |
 
 
 ---
