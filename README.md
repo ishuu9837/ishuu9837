@@ -1,5 +1,7 @@
 # Hi there, I'm [Y ESWAR]🌟-Data Scientist
-**Intellipaat (Online) as Gen AI trainer**
+
+**Intellipaat (Online) Gen AI trainer**
+
 If you're looking for someone who not only delivers high-quality, data-driven results but also loves turning complex problems into simple, elegant solutions...let’s connect!
 
 <div style="display: flex; justify-content: space-around; height: 50%; width: 100%;">
