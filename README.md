@@ -29,7 +29,7 @@ If you're looking for someone who not only delivers high-quality, data-driven re
 
 ### 🎓 Education
 
-| Institution | Duration | Qualification | Result |
+| Institution | Qualification | Result |
 |------------|----------|---------------|--------|
 |  **CRR Secondary School**, Kurnool |  10th Grade | 76.6% |
 |  **Sri Chaitanya Jr College**, Vijayawada |  Intermediate (MPC) | 86.4% |
