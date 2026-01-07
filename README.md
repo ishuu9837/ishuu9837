@@ -75,7 +75,7 @@ A quick overview of the tools and technologies I work with.
 | Institution                               | Degree / Certification                                     | Result     |
 | ----------------------------------------- | ---------------------------------------------------------- | ---------- |
 | **Parul University**, Vadodara            | B.Tech in Computer Science (Artificial Intelligence)       | 7.13 CGPA  |
-| **Intellipaat (Online)** | Advanced Certification in Data Science & Machine Learning  | In Progress|
+| **Intellipaat (Online)** | Advanced Certification in Data Science & Machine Learning  | A |
 | **Sri Chaitanya Jr College**, Vijayawada  | Intermediate (MPC)                                         | 86.4%      |
 | **CRR Secondary School**, Kurnool         | 10th Grade                                                 | 76.6%      |
 
