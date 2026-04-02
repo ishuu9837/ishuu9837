@@ -16,9 +16,9 @@
 <p align="center">
   🚀 Passionate <strong>Data Scientist</strong> & <strong>ML Engineer</strong> skilled in building end-to-end AI pipelines, deep learning models, and intelligent data-driven solutions.<br>
   🤖 Specialized in <strong>Generative AI</strong>, <strong>Anomaly Detection</strong>, and <strong>Predictive Analytics</strong> — turning raw data into real impact.<br>
-  📊 Experienced in <strong>Data Engineering</strong>, <strong>Business Analytics</strong>, and delivering compelling <strong>BI dashboards</strong>.<br>
+  📊 Worked on <strong>Data Engineering</strong>, <strong>Business Analytics</strong>, and delivering compelling <strong>BI dashboards</strong>.<br>
   🎯 Open to roles in <strong>ML Engineering</strong>, <strong>Data Science</strong>, <strong>Gen AI</strong> & <strong>Data Analytics</strong> —
-  <a href="https://vercel.com/y-eswars-projects/portfolio"><strong>check my portfolio</strong></a> or <strong>let's connect!</strong>
+  <a href="https://portfolio-eight-virid-68.vercel.app/"><strong>check my portfolio</strong></a> or <strong>let's connect!</strong>
 </p>
 
 ---
@@ -268,7 +268,7 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://vercel.com/y-eswars-projects/portfolio">
+  <a href="https://portfolio-eight-virid-68.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
