@@ -144,7 +144,7 @@
 ## 🎓 Education & Certifications
 
 | Institution | Degree / Certification | Result | Year |
-|---|---|---|
+|---|---|---|---|
 | **GITAM University**, Hyderabad | M.Tech in Data Science | 8.71 | 2025-27 |
 | **Parul University**, Vadodara | B.Tech in Computer Science (Artificial Intelligence) | 7.13 CGPA |2021-25| 
 | **IIT Roorkee** *(via Intellipaat)* | Professional Certification in Data Science & AI | A Grade |2025|
