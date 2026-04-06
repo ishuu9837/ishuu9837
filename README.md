@@ -143,13 +143,13 @@
 
 ## 🎓 Education & Certifications
 
-| Institution | Degree / Certification | Result |
+| Institution | Degree / Certification | Result | Year |
 |---|---|---|
-| **GITAM University**, Hyderabad | M.Tech in Data Science | Pursuing (2025–2027) |
-| **Parul University**, Vadodara | B.Tech in Computer Science (Artificial Intelligence) | 7.13 CGPA |
-| **IIT Roorkee** *(via Intellipaat)* | Professional Certification in Data Science & AI | A Grade |
-| **Sri Chaitanya Jr College**, Vijayawada | Intermediate (MPC) | 86.4% |
-| **CRR Secondary School**, Kurnool | 10th Grade | 76.6% |
+| **GITAM University**, Hyderabad | M.Tech in Data Science | 8.71 | 2025-27 |
+| **Parul University**, Vadodara | B.Tech in Computer Science (Artificial Intelligence) | 7.13 CGPA |2021-25| 
+| **IIT Roorkee** *(via Intellipaat)* | Professional Certification in Data Science & AI | A Grade |2025|
+| **Sri Chaitanya Jr College**, Vijayawada | Intermediate (MPC) | 86.4% |2019-21|
+| **CRR Secondary School**, Kurnool | 10th Grade | 76.6% |2018-19|
 
 ---
 
