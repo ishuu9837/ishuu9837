@@ -102,17 +102,6 @@
 - Engineered Python-based automation scripts that streamlined client application workflows.
 - Gained hands-on experience with data handling, API integration, and process optimization.
 
-### **Power BI Developer (Virtual Experience)** – *PwC Switzerland (Forage)*
-📍 *Remote* | 📅 *Completed: 2025*
-- Built dynamic **Power BI dashboards** to track critical business KPIs for a simulated client-facing project.
-- Analyzed HR datasets to uncover trends in gender diversity at executive levels and provided actionable strategic insights.
-- Authored professional client communications, translating complex data findings into clear recommendations.
-
-### **Solutions Architect (Virtual Experience)** – *AWS APAC (Forage)*
-📍 *Remote* | 📅 *Completed: Mar 2025*
-- Designed a highly available and scalable web hosting architecture on **AWS** using **Elastic Beanstalk**.
-- Communicated technical design and its business value (cost-efficiency, performance) to a non-technical client audience.
-
 ### **Freelance Researcher** – *Fiverr*
 📍 *Remote* | 📅 *Nov 2024 – May 2025*
 - Provided custom statistical analysis and research consulting for academic and business clients.
@@ -182,19 +171,8 @@
 
 ---
 
-### 4. I⚡H — Intelligent Movie Recommender using Letterboxd
-<!-- TODO: swap this link for the direct repo -->
-**Role**: ML & Full-Stack Developer | 📅 *2025*
-- Built a fully client-side single-page movie recommendation engine with **cosine similarity ML** on the Letterboxd dataset.
-- Zero backend — all ML inference runs in-browser; deployed as a lightweight **PWA on Vercel**.
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
----
-
-### 5. [Real-Time Face Detection System](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION)
+### 4. [Real-Time Face Detection System](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION)
 **Role**: Python Developer & Data Engineer | 📅 *Jan 2024 – Dec 2024*
 - Engineered a high-performance real-time face detection pipeline using **OpenCV** achieving a **30% speed boost** processing 1,000+ FPS.
 - Integrated **MongoDB** for efficient storage and management of detected face records.
@@ -206,7 +184,7 @@
 
 ---
 
-### 6. [Netflix Content Recommendation Engine](https://github.com/ishuu9837/NETFLIX-CONTENT-RECOMMENDATION)
+### 5. [Netflix Content Recommendation Engine](https://github.com/ishuu9837/NETFLIX-CONTENT-RECOMMENDATION)
 **Role**: Machine Learning Engineer | 📅 *Jan 2024*
 - Built a content-based recommendation system with robust preprocessing and correlation analysis on the Netflix dataset.
 
