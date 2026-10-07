@@ -22,7 +22,7 @@
   🤖 Specialized in <strong>Generative AI</strong>, <strong>Anomaly Detection</strong>, and <strong>Predictive Analytics</strong> — turning raw data into real impact.<br>
   📊 Worked on <strong>Data Engineering</strong>, <strong>Business Analytics</strong>, and delivering compelling <strong>BI dashboards</strong>.<br>
   🎯 Open to roles in <strong>ML Engineering</strong>, <strong>Data Science</strong>, <strong>Gen AI</strong> & <strong>Data Analytics</strong> —
-  <a href="https://portfolio-eight-virid-68.vercel.app/"><strong>check my portfolio</strong></a> or <strong>let's connect!</strong>
+  <a href="https://ishuu.me/"><strong>check my portfolio</strong></a> or <strong>let's connect!</strong>
 </p>
 
 <p align="center">
