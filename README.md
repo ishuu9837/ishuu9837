@@ -1,247 +1,106 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Y+Eswar+👋;Data+Scientist+%7C+ML+Engineer;Gen+AI+Developer+%7C+Data+Analyst;Data+Engineer+%7C+Python+Developer" alt="Typing SVG" />
-  </a>
-</h1>
+<img alt="Banner: Hii, I'm Y Eswar. A floating island with a glowing lab, waterfall and a spinning wind turbine. Data scientist, ML engineer and researcher." src="assets/banner.svg" width="860">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-open%20to%20ML%20Engineer%20%26%20Data%20Scientist%20roles-2ea44f?style=for-the-badge" alt="Open to work" />
+  <code><a href="https://ishuu.me">ishuu.me</a></code> &nbsp;
+  <code><a href="https://www.linkedin.com/in/eswar854/">linkedin</a></code> &nbsp;
+  <code><a href="https://www.instagram.com/ishuu.me/">instagram</a></code> &nbsp;
+  <code><a href="mailto:founder@ishuu.me">email</a></code>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
+  <img alt="Terminal card. whoami: Y Eswar, Data Scientist, ML Engineer, Researcher. now: M.Tech Data Science at GITAM with a 8.95 CGPA, few-shot learning for histopathology. prev: B.Tech CSE (AI) at Parul University, Python developer intern at Slash Mark IT and OctaNet. built: EduSentinel, Smart Energy Grids, MRS by Letterboxd, Heart Disease, Face Detection. papers: two on ResearchGate, December 2024. stack: PyTorch, TensorFlow, Keras, scikit-learn, Transformers, PySpark, Python, SQL, Power BI. open to: ML Engineer, Data Scientist, Gen AI and Data Analytics roles. base: Hyderabad, India, remote friendly." src="assets/card-light.svg" width="860">
+</picture>
+
+## Right now
+
+I'm working on **cross-domain few-shot learning for histopathology images** for my M.Tech research at GITAM: how a model can learn from only a few labelled examples and carry that learning across image domains, using meta-learning in PyTorch.
+
+## Projects
+
+| Project | | What it is |
+| :-- | --: | :-- |
+| **[EduSentinel](https://edusentinel.vercel.app)** | 99.40% ROC-AUC | A NumPy-only deep autoencoder that flags abnormal learning behaviour in LMS data across 8 features. Flask demo. Published on ResearchGate. |
+| **[Smart Energy Grids & Sustainability](https://smart-energy-grid-app.vercel.app)** | LSTM | Case study on data-driven power distribution: demand forecasting and adaptive grid control, with an interactive energy-balance demo. |
+| **[MRS by Letterboxd](https://movie-recommendation-using-letterbo.vercel.app)** | cosine similarity | Film discovery with title, language, year and genre filters. A Python backend encodes genres and ranks films by cosine similarity. |
+| **Heart Disease Prediction** | 96.3% accuracy | Deep autoencoder on the UCI Heart Disease dataset, with L1/L2 regularisation, dropout, threshold tuning and class-imbalance handling. TensorFlow, Keras. |
+| **Image Colourisation** | U-Net | U-Net convolutional autoencoder in LAB colour space on CIFAR-10 with VGG perceptual loss. Three architecture iterations, migrated from TensorFlow to PyTorch. |
+| **[Real-Time Face Detection](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION)** | 1,000+ FPS | OpenCV pipeline that stores detected faces in MongoDB. 30% speed boost. Published on ResearchGate. |
+| **[Galaxy Glide](https://github.com/ishuu9837/GALAXY-GLIDE)** | 40% faster load | Responsive interactive front end, tested across browsers and devices. HTML, CSS, JavaScript. |
+
+## Research
+
+| Paper | |
+| :-- | --: |
+| Real-Time Face Detection Using OpenCV | ResearchGate · Dec 2024 |
+| EduSentinel: Anomaly Detection in Education Using a Deep Autoencoder | ResearchGate · Dec 2024 |
+
+## Toolkit
+
+**AI & machine learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-1F4FFF?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Manus](https://img.shields.io/badge/Manus-1A1A1A?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat-square&logo=openai&logoColor=white)
+
+**Programming & data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**Cloud, design & tools**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+## Experience
+
+| Period | Company | Role |
+| :-- | :-- | :-- |
+| Jan 2025 – Jul 2025 | **Freelancer.com** | Personal Tutor (Maths, Stats & Python) |
+| Jan 2025 – Apr 2025 | **Slash Mark IT Solutions** | Python Developer Intern |
+| Nov 2024 – May 2025 | **Fiverr** | Freelance Researcher |
+| May 2024 – Jun 2024 | **OctaNet Services** | Python Developer Intern |
+
+<details>
+<summary><b>The detail</b></summary>
+
+<br>
+
+**Freelancer.com** · Personal Tutor · remote
+- Taught Mathematics, Statistics and Python to a global student base with personalised lesson plans and interactive coding sessions
+
+**Slash Mark IT Solutions** · Python Developer Intern · remote
+- Built Python automation scripts that streamlined client workflows; data handling and API integration
+
+**Fiverr** · Freelance Researcher · remote
+- Statistical analysis and research consulting: data cleaning, validation and regression analysis
+
+**OctaNet Services** · Python Developer Intern · remote
+- Python scripts for task automation and small product features; debugging and code optimisation
+
+</details>
+
+## Education
+
+| Period | School | Programme | Score |
+| :-- | :-- | :-- | --: |
+| 2025 – 2027 | **GITAM University**, Hyderabad | M.Tech, Data Science | 8.95 CGPA |
+| 2021 – 2025 | **Parul University**, Vadodara | B.Tech, CSE (Artificial Intelligence) | 7.13 CGPA |
+| 2019 – 2021 | Sri Chaitanya Jr College, Vijayawada | Intermediate (MPC) | 86.4% |
+| 2018 – 2019 | CRR Secondary School, Kurnool | 10th Grade | 76.6% |
+
+## Certifications
+
+| Certification | Issuer | Result |
+| :-- | :-- | --: |
+| [Professional Certification in Data Science & AI](https://tih.iitr.ac.in/certificate/intellipaat/IPTIH25070775.jpg) | IIT Roorkee via Intellipaat · 2025 | A Grade |
+| Introduction to Machine Learning | NPTEL / Coursera | 100/100 |
+| [Introduction to Cybersecurity](https://www.credly.com/badges/2f2ea326-f082-4302-adad-f97ff5e5eef4) | Cisco | |
+| [Python Essentials 1](https://www.credly.com/badges/038d86bf-0279-4e10-9751-9c3c0a5c195e/linked_in_profile) | Cisco | 100/100 |
+| [Python Essentials 2](https://www.credly.com/badges/2ebedeb7-139b-42af-ab17-7c387deb94d6/linked_in_profile) | Cisco | 100/100 |
 
 <p align="center">
-  <a href="https://github.com/ishuu9837?tab=followers">
-    <img src="https://img.shields.io/github/followers/ishuu9837?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/ishuu9837">
-    <img src="https://komarev.com/ghpvc/?username=ishuu9837&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  </a>
+  <a href="https://ishuu.me"><b>ishuu.me</b></a> ·
+  <a href="mailto:founder@ishuu.me">founder@ishuu.me</a> ·
+  <a href="https://www.linkedin.com/in/eswar854/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/ishuu.me/">Instagram</a>
 </p>
 
-<p align="center">
-  🚀 Passionate <strong>Data Scientist</strong> & <strong>ML Engineer</strong> skilled in building end-to-end AI pipelines, deep learning models, and intelligent data-driven solutions.<br>
-  🤖 Specialized in <strong>Generative AI</strong>, <strong>Anomaly Detection</strong>, and <strong>Predictive Analytics</strong> — turning raw data into real impact.<br>
-  📊 Worked on <strong>Data Engineering</strong>, <strong>Business Analytics</strong>, and delivering compelling <strong>BI dashboards</strong>.<br>
-  🎯 Open to roles in <strong>ML Engineering</strong>, <strong>Data Science</strong>, <strong>Gen AI</strong> & <strong>Data Analytics</strong> —
-  <a href="https://ishuu.me/"><strong>check my portfolio</strong></a> or <strong>let's connect!</strong>
-</p>
-
-<p align="center">
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#professional-experience">Experience</a> •
-  <a href="#education--certifications">Education</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#github-stats">GitHub Stats</a> •
-  <a href="#lets-connect">Contact</a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-</p>
-
-### 🤖 ML & Deep Learning
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
-</p>
-
-### 📊 Data Visualization
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30"/>
-</p>
-
-### ⚙️ Frameworks & APIs
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-</p>
-
-### ☁️ Cloud & Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-</p>
-
----
-
-## 💼 Professional Experience
-
-### **Personal Tutor (Maths, Stats & Python)** – *Freelancer.com*
-📍 *Remote* | 📅 *Jan 2025 – Jul 2025*
-- Taught core concepts in Mathematics, Statistics, and Python to a global student base.
-- Architected personalized lesson plans and interactive coding sessions to improve comprehension and practical skills.
-
-### **Python Developer Intern** – *Slash Mark IT Solutions (OPC) Pvt. Ltd*
-📍 *Remote* | 📅 *Jan 2025 – Apr 2025*
-- Engineered Python-based automation scripts that streamlined client application workflows.
-- Gained hands-on experience with data handling, API integration, and process optimization.
-
-### **Freelance Researcher** – *Fiverr*
-📍 *Remote* | 📅 *Nov 2024 – May 2025*
-- Provided custom statistical analysis and research consulting for academic and business clients.
-- Specialized in data cleaning, validation, and advanced regression analysis to solve client problems.
-
-### **Python Developer Intern** – *OctaNet Services Pvt. Ltd*
-📍 *Remote* | 📅 *May 2024 – Jun 2024*
-- Developed and maintained Python scripts for task automation and small-scale product features.
-- Managed software packages using PIP and contributed to debugging and code optimization efforts.
-
----
-
-## 🎓 Education & Certifications
-
-| Institution | Degree / Certification | Result | Year |
-|---|---|---|---|
-| **GITAM University**, Hyderabad | M.Tech in Data Science | 8.95 CGPA | 2025–27 |
-| **Parul University**, Vadodara | B.Tech in Computer Science (Artificial Intelligence) | 7.13 CGPA | 2021–25 |
-| **IIT Roorkee** *(via Intellipaat)* | Professional Certification in Data Science & AI | A Grade | 2025 |
-| **Sri Chaitanya Jr College**, Vijayawada | Intermediate (MPC) | 86.4% | 2019–21 |
-| **CRR Secondary School**, Kurnool | 10th Grade | 76.6% | 2018–19 |
-
----
-
-## 🚀 Featured Projects
-
-### 1. EduSentinel — Anomaly Detection in Education using a Deep Autoencoder
-<!-- TODO: swap this link for the direct repo, e.g. https://github.com/ishuu9837/EduSentinel -->
-**Role**: ML Engineer & Research Developer | 📅 *2025*
-- Built a **NumPy-only Deep Autoencoder** from scratch to detect abnormal learning behaviours in LMS data across 8 behavioural features — no ML framework used.
-- Achieved **90.43% Accuracy**, **100% Recall** (zero false negatives on abnormal patterns), and **99.40% ROC-AUC**.
-- Deployed as a **Flask web application** with real-time inference using a serialized `autoencoder_model.pkl`.
-- 📄 Research findings published on **ResearchGate**.
-
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
----
-
-### 2. Heart Disease Prediction using Autoencoders
-<!-- TODO: swap this link for the direct repo -->
-**Role**: Deep Learning Engineer | 📅 *2025*
-- Engineered a Deep Autoencoder with **L1/L2 regularization and Dropout** on the UCI Heart Disease dataset.
-- Achieved **96.3% Accuracy** with optimized threshold tuning for clinical-grade reliability.
-- Applied advanced feature engineering and class imbalance handling for robust real-world performance.
-
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
----
-
-### 3. Image Colourisation using Autoencoders
-<!-- TODO: swap this link for the direct repo -->
-**Role**: Deep Learning Engineer | 📅 *2025*
-- Designed a **U-Net based Convolutional Autoencoder** using LAB colour space on CIFAR-10 for grayscale-to-colour conversion.
-- Incorporated **VGG-based perceptual loss** for photorealistic output across multiple architecture iterations (V1–V3).
-- Migrated pipeline from TensorFlow to **PyTorch** for improved GPU compatibility and training efficiency.
-
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
----
-
-
-### 4. [Real-Time Face Detection System](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION)
-**Role**: Python Developer & Data Engineer | 📅 *Jan 2024 – Dec 2024*
-- Engineered a high-performance real-time face detection pipeline using **OpenCV** achieving a **30% speed boost** processing 1,000+ FPS.
-- Integrated **MongoDB** for efficient storage and management of detected face records.
-- Published research findings on **ResearchGate**.
-
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-### 5. [Netflix Content Recommendation Engine](https://github.com/ishuu9837/NETFLIX-CONTENT-RECOMMENDATION)
-**Role**: Machine Learning Engineer | 📅 *Jan 2024*
-- Built a content-based recommendation system with robust preprocessing and correlation analysis on the Netflix dataset.
-
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
-### 7. [Galaxy Glide Web Project](https://github.com/ishuu9837/GALAXY-GLIDE)
-**Role**: Front-End Developer | 📅 *Jan 2024 – Dec 2024*
-- Built a fully responsive interactive front-end with **40% faster page load** and **35% boost in user engagement**.
-- Ensured cross-browser compatibility and seamless performance across all devices.
-
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-
-
-## 🌱 Current Focus & Learning Goals
-
-- **🔭 What I'm working on:**
-  - Building and deploying advanced ML/DL models with **PyTorch** and **TensorFlow**.
-  - Designing end-to-end AI pipelines with **Flask** and **AWS**.
-  - Creating interactive **Power BI** & **Tableau** dashboards for business analytics.
-
-- **🌱 What I'm learning:**
-  - **Generative AI** — LLMs, RAG pipelines, and Agentic AI systems.
-  - **Advanced Cloud Deployment** — AWS infrastructure and serverless ML pipelines.
-  - **MLOps & Real-Time Data Processing** — streaming pipelines and production-grade model deployment.
-
-- **⚡ Beyond the code:**
-  - Fascinated by space exploration 🌌, and I automate just about anything I can with Python.
-  - When I'm not building models, I'm usually writing or making music — creative writing keeps the other half of my brain busy.
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eswar854/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:eswaryadav8543@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://portfolio-eight-virid-68.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/ishuu.me/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<p align="center"><sub>M.Tech Data Science, GITAM University · Hyderabad · open to ML, data science, Gen AI and analytics roles</sub></p>
