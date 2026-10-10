@@ -35,15 +35,14 @@
 
 | Project | | What it is |
 | :-- | --: | :-- |
-| **[EduSentinel](https://github.com/ishuu9837/edusentinel)** | [live demo](https://edusentinel.vercel.app) | NumPy-only deep autoencoder that flags abnormal learning behaviour across eight LMS features; 99.40% ROC-AUC, 90.43% accuracy and 100% recall. Flask demo. |
-| **[Smart Energy Grids & Sustainability](https://github.com/ishuu9837/smart-energy-grid)** | [live demo](https://smart-energy-grid-app.vercel.app) | Demand forecasting and adaptive grid control with LSTM-based forecasting, big-data methods and an interactive energy-balance demo. |
-| **[MRS by Letterboxd](https://github.com/ishuu9837/Movie_recommendation_using_letterboxd)** | [live demo](https://movie-recommendation-using-letterbo.vercel.app) | Python-backed film recommender with genre encoding and cosine similarity, plus title, language, year and genre filters. |
-| **[Brain Tumor Few-Shot Classification](https://github.com/ishuu9837/Brain-Tumor-using-Few-Shot-Learning)** | Few-shot learning | Public few-shot classification project, separate from the current breast-histopathology research. |
-| **[SQL-Master-Journey](https://github.com/ishuu9837/SQL-Master-Journey)** | T-SQL | Pinned GitHub repository: a SQL learning journey with Intellipath. |
-| **[Image Colourisation](https://github.com/ishuu9837/IMAGE-COLORIZATION)** | PyTorch · TensorFlow | U-Net convolutional autoencoder for CIFAR-10 in LAB colour space, using VGG perceptual loss; iterated through three architectures and migrated from TensorFlow to PyTorch. |
-| **[Real-Time Face Detection](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION)** | OpenCV · MongoDB | Real-time detection pipeline that stores detected faces in MongoDB. The supplied project notes report 1,000+ FPS and a 30% speed boost. |
-| **[Galaxy Glide](https://github.com/ishuu9837/GALAXY-GLIDE)** | HTML · CSS · JavaScript | Responsive interactive front end; project notes report 40% faster page loads and 35% higher engagement. |
-| **Heart Disease Prediction** | TensorFlow · Keras | Deep autoencoder on the UCI Heart Disease dataset; 96.3% accuracy with L1/L2 regularisation, dropout, threshold tuning and class-imbalance handling. No public project link yet. |
+| **Few-shot histopathology** | 🔬 | M.Tech research, in progress. Cross-domain few-shot classification of breast histopathology images: multi-scale CNN features and multi-head self-attention, adapted with MAML. BreaKHis to BACH, in PyTorch. |
+| **[EduSentinel](https://edusentinel.vercel.app)** | [live](https://edusentinel.vercel.app) | NumPy-only deep autoencoder that flags abnormal learning behaviour in LMS data across 8 features. 99.40% ROC-AUC, 100% recall. Flask demo. |
+| **[Smart Energy Grids](https://smart-energy-grid-app.vercel.app)** | [live](https://smart-energy-grid-app.vercel.app) | Demand forecasting and adaptive grid control with LSTM and big data, plus an interactive energy-balance demo. |
+| **[MRS by Letterboxd](https://movie-recommendation-using-letterbo.vercel.app)** | [live](https://movie-recommendation-using-letterbo.vercel.app) | Film recommender with genre encoding and cosine similarity. Filters for title, language, year and genre. |
+| **Heart Disease Prediction** | | Deep autoencoder on the UCI Heart Disease dataset, 96.3% accuracy. L1/L2 regularisation, dropout, threshold tuning, class-imbalance handling. |
+| **[Image Colourisation](https://github.com/ishuu9837/IMAGE-COLORIZATION)** | [repo](https://github.com/ishuu9837/IMAGE-COLORIZATION) | U-Net convolutional autoencoder in LAB colour space on CIFAR-10 with VGG perceptual loss. Migrated from TensorFlow to PyTorch. |
+| **[Real-Time Face Detection](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION)** | [repo](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION) | OpenCV pipeline storing detected faces in MongoDB. 1,000+ FPS, 30% speed boost. |
+| **[Galaxy Glide](https://github.com/ishuu9837/GALAXY-GLIDE)** | [repo](https://github.com/ishuu9837/GALAXY-GLIDE) | Responsive interactive front end in HTML, CSS and JavaScript. 40% faster page load, 35% higher engagement. |
 
 ## Toolkit
 
