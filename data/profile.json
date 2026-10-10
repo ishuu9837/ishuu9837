@@ -1,0 +1,39 @@
+{
+  "name": "Y Eswar",
+  "handle": "ishuu9837",
+  "host": "gitam",
+  "role": "M.Tech Data Science @ GITAM",
+  "site": "https://ishuu.me",
+  "rss": "",
+  "latest": {
+    "title": "EduSentinel: Anomaly Detection in Education Using a Deep Autoencoder",
+    "at": "2024-12-01"
+  },
+  "banner": "ESWAR",
+  "lines": [
+    [
+      "whoami",
+      "Y Eswar · M.Tech Data Science @ GITAM"
+    ],
+    [
+      "now",
+      "few-shot histopathology classification · meta-learning (MAML) · BreaKHis to BACH"
+    ],
+    [
+      "prev",
+      "B.Tech CSE (AI), Parul University · Python intern at Slash Mark IT, OctaNet"
+    ],
+    [
+      "oss",
+      "EduSentinel · Smart Energy Grids · MRS Letterboxd · Face Detection · Galaxy Glide"
+    ],
+    [
+      "pubs",
+      "EduSentinel and Real-Time Face Detection on ResearchGate, Dec 2024"
+    ],
+    [
+      "base",
+      "Hyderabad · remote friendly · ishuu.me"
+    ]
+  ]
+}

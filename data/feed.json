@@ -1,0 +1,89 @@
+{
+  "refreshedAt": "2026-10-10T16:46:03.000Z",
+  "stale": [],
+  "activity": {
+    "total": 8,
+    "daily": [
+      0,
+      3,
+      1,
+      2,
+      0,
+      0,
+      2
+    ]
+  },
+  "github": {
+    "followers": 7,
+    "repos": 22,
+    "stars": 9,
+    "languages": [
+      {
+        "name": "Jupyter Notebook",
+        "count": 10
+      },
+      {
+        "name": "HTML",
+        "count": 3
+      },
+      {
+        "name": "JavaScript",
+        "count": 2
+      },
+      {
+        "name": "TypeScript",
+        "count": 1
+      },
+      {
+        "name": "TSQL",
+        "count": 1
+      }
+    ],
+    "topRepos": [
+      {
+        "name": "smart-energy-grid",
+        "stars": 1,
+        "lang": "JavaScript",
+        "desc": "hybrid LSTM-Transformer deep learning models for energy consumption fore"
+      },
+      {
+        "name": "edusentinel",
+        "stars": 1,
+        "lang": "Jupyter Notebook",
+        "desc": "Deep learning system using autoencoders to detect abnormal patterns in L"
+      },
+      {
+        "name": "SQL-50-Leetcode",
+        "stars": 1,
+        "lang": null,
+        "desc": "LEETCODE SOLUTIONS OF SQL 50"
+      },
+      {
+        "name": "SQL-Master-Journey",
+        "stars": 1,
+        "lang": "TSQL",
+        "desc": "My SQL Journey With Intellipath"
+      },
+      {
+        "name": "REAL-TIME-FACE-DETECTION",
+        "stars": 1,
+        "lang": "HTML",
+        "desc": "Real Time Face Detection by open cv Which directs you to the notes app"
+      },
+      {
+        "name": "GALAXY-GLIDE",
+        "stars": 1,
+        "lang": "JavaScript",
+        "desc": ""
+      }
+    ]
+  },
+  "lastPush": null,
+  "latestPost": {
+    "title": "EduSentinel: Anomaly Detection in Education Using a ",
+    "at": "Sun, 01 Dec 2024 00:00:00 GMT"
+  },
+  "site": null,
+  "streak": 1,
+  "total": 170
+}
