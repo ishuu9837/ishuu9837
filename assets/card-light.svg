@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="382" viewBox="0 0 860 382" role="img" aria-label="Terminal card for Y Eswar: whoami, now, prev, built, papers, stack, open to, base.">
+<style>.t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:14px}.cur{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<rect width="860" height="382" rx="14" fill="#f5f8ff"/><path d="M0 14a14 14 0 0 1 14-14h832a14 14 0 0 1 14 14v38H0z" fill="#e3ecff"/>
+<circle cx="28" cy="26" r="6" fill="#ff5f56"/><circle cx="50" cy="26" r="6" fill="#ffbd2e"/><circle cx="72" cy="26" r="6" fill="#27c93f"/>
+<text class="t" x="430" y="31" fill="#5a6b9a" text-anchor="middle">ishuu9837 — zsh</text>
+<text class="t" x="28" y="88"><tspan fill="#1f4fff">$</tspan><tspan fill="#e0651a" font-weight="700"> whoami  </tspan><tspan fill="#0b1b4d">Y Eswar. Data Scientist · ML Engineer · Researcher</tspan></text>
+<text class="t" x="28" y="122"><tspan fill="#1f4fff">$</tspan><tspan fill="#e0651a" font-weight="700"> now     </tspan><tspan fill="#0b1b4d">M.Tech Data Science at GITAM (8.95 CGPA). Few-shot learning for histopathology.</tspan></text>
+<text class="t" x="28" y="156"><tspan fill="#1f4fff">$</tspan><tspan fill="#e0651a" font-weight="700"> prev    </tspan><tspan fill="#0b1b4d">B.Tech CSE (AI), Parul University. Python developer intern at Slash Mark IT and OctaNet.</tspan></text>
+<text class="t" x="28" y="190"><tspan fill="#1f4fff">$</tspan><tspan fill="#e0651a" font-weight="700"> built   </tspan><tspan fill="#0b1b4d">EduSentinel, Smart Energy Grids, MRS by Letterboxd, Heart Disease, Face Detection.</tspan></text>
+<text class="t" x="28" y="224"><tspan fill="#1f4fff">$</tspan><tspan fill="#e0651a" font-weight="700"> papers  </tspan><tspan fill="#0b1b4d">2 on ResearchGate, Dec 2024: real-time face detection with OpenCV, and EduSentinel.</tspan></text>
+<text class="t" x="28" y="258"><tspan fill="#1f4fff">$</tspan><tspan fill="#e0651a" font-weight="700"> stack   </tspan><tspan fill="#0b1b4d">PyTorch, TensorFlow, Keras, scikit-learn, Transformers, PySpark, Python, SQL, Power BI.</tspan></text>
+<text class="t" x="28" y="292"><tspan fill="#1f4fff">$</tspan><tspan fill="#e0651a" font-weight="700"> open to </tspan><tspan fill="#0b1b4d">ML Engineer, Data Scientist, Gen AI and Data Analytics roles.</tspan></text>
+<text class="t" x="28" y="326"><tspan fill="#1f4fff">$</tspan><tspan fill="#e0651a" font-weight="700"> base    </tspan><tspan fill="#0b1b4d">Hyderabad, India. Remote friendly.</tspan></text>
+<text class="t" x="28" y="368" fill="#1f4fff">$ <tspan class="cur" fill="#0b1b4d">█</tspan></text></svg>

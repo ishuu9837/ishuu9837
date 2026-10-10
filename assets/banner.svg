@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="320" viewBox="0 0 860 320" role="img" aria-label="Banner: Hii, I'm Y Eswar. Data scientist, ML engineer and researcher. A floating island with a glowing lab, waterfall and a spinning wind turbine.">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1f4fff"/><stop offset=".55" stop-color="#4f95ff"/><stop offset="1" stop-color="#9fd0ff"/></linearGradient>
+<linearGradient id="rock" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c79aa0"/><stop offset="1" stop-color="#7b5461"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#ffd68a" stop-opacity=".9"/><stop offset="1" stop-color="#ffd68a" stop-opacity="0"/></radialGradient>
+<linearGradient id="cta" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b6bff"/><stop offset="1" stop-color="#1237c8"/></linearGradient>
+<clipPath id="fall"><rect x="739" y="176" width="12" height="62"/></clipPath>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.d1{animation:drift 22s ease-in-out infinite alternate}
+.d2{animation:drift 30s ease-in-out infinite alternate-reverse}
+@keyframes drift{from{transform:translateX(-18px)}to{transform:translateX(22px)}}
+.bob{animation:bob 6s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.blades{transform-origin:742px 112px;animation:spin 3s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.stream{animation:stream .9s linear infinite}
+@keyframes stream{to{transform:translateY(16px)}}
+.pulse{animation:pulse 3.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:.8}}
+.role{opacity:0;animation:role 12.5s infinite}
+.r2{animation-delay:2.5s}.r3{animation-delay:5s}.r4{animation-delay:7.5s}.r5{animation-delay:10s}
+@keyframes role{0%{opacity:0;transform:translateY(8px)}4%,18%{opacity:1;transform:none}22%,100%{opacity:0;transform:translateY(-8px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.r1{opacity:1}}
+</style></defs>
+<rect width="860" height="320" fill="url(#sky)"/>
+<g class="d1"><g transform="translate(470 38) scale(0.8)" fill="#fff" opacity="0.85"><circle cx="0" cy="0" r="26"/><circle cx="28" cy="-10" r="32"/><circle cx="62" cy="0" r="26"/><circle cx="30" cy="8" r="30"/></g><g transform="translate(800 95) scale(0.9)" fill="#fff" opacity="0.9"><circle cx="0" cy="0" r="26"/><circle cx="28" cy="-10" r="32"/><circle cx="62" cy="0" r="26"/><circle cx="30" cy="8" r="30"/></g></g>
+<g class="d2"><g transform="translate(430 305) scale(1.3)" fill="#fff" opacity="0.95"><circle cx="0" cy="0" r="26"/><circle cx="28" cy="-10" r="32"/><circle cx="62" cy="0" r="26"/><circle cx="30" cy="8" r="30"/></g><g transform="translate(580 292) scale(1.7)" fill="#fff" opacity="0.95"><circle cx="0" cy="0" r="26"/><circle cx="28" cy="-10" r="32"/><circle cx="62" cy="0" r="26"/><circle cx="30" cy="8" r="30"/></g><g transform="translate(790 282) scale(1.3)" fill="#fff" opacity="0.95"><circle cx="0" cy="0" r="26"/><circle cx="28" cy="-10" r="32"/><circle cx="62" cy="0" r="26"/><circle cx="30" cy="8" r="30"/></g></g>
+<g class="bob">
+ <path d="M505 176 Q640 200 775 176 L742 232 Q700 252 676 292 Q650 262 612 246 Q560 228 505 176Z" fill="url(#rock)"/>
+ <ellipse cx="640" cy="172" rx="136" ry="34" fill="#5fa443"/><ellipse cx="640" cy="168" rx="122" ry="28" fill="#79bd52"/>
+ <polygon points="560,140 551,166 569,166" fill="#2f7d3a"/><rect x="558.5" y="166" width="3" height="5" fill="#6b4a2b"/><polygon points="583,148 574,174 592,174" fill="#3b8f44"/><rect x="581.5" y="174" width="3" height="5" fill="#6b4a2b"/><polygon points="700,146 691,172 709,172" fill="#2f7d3a"/><rect x="698.5" y="172" width="3" height="5" fill="#6b4a2b"/><polygon points="722,138 713,164 731,164" fill="#3b8f44"/><rect x="720.5" y="164" width="3" height="5" fill="#6b4a2b"/><polygon points="604,132 595,158 613,158" fill="#2a6f35"/><rect x="602.5" y="158" width="3" height="5" fill="#6b4a2b"/>
+ <path d="M520 190 Q528 214 540 232" stroke="#fff" stroke-opacity=".0" fill="none"/>
+ <polygon points="640,115.0 666,115.0 640,128 614,115.0" fill="#a9c3ff"/><polygon points="614,115.0 640,128 640,166 614,153.0" fill="#3f66ff"/><polygon points="640,128 666,115.0 666,153.0 640,166" fill="#2a46c8"/><polygon points="606,133.0 624,133.0 606,142 588,133.0" fill="#b9a8ff"/><polygon points="588,133.0 606,142 606,168 588,159.0" fill="#6a4cff"/><polygon points="606,142 624,133.0 624,159.0 606,168" fill="#4a32c3"/><polygon points="672,138.5 687,138.5 672,146 657,138.5" fill="#9dd0ff"/><polygon points="657,138.5 672,146 672,168 657,160.5" fill="#2f86ff"/><polygon points="672,146 687,138.5 687,160.5 672,168" fill="#1f5fd0"/>
+ <circle cx="640" cy="150" r="46" fill="url(#glow)" class="pulse"/>
+ <rect x="738" y="112" width="8" height="62" rx="3" fill="#e9e1d8"/><rect x="734" y="104" width="16" height="10" rx="3" fill="#d8cfc4"/>
+ <g class="blades"><g fill="#f3f0fa" stroke="#8f86a8" stroke-width="1"><rect x="739" y="78" width="6" height="32" rx="2"/><rect x="739" y="114" width="6" height="32" rx="2"/><rect x="706" y="109" width="32" height="6" rx="2"/><rect x="746" y="109" width="32" height="6" rx="2"/></g></g>
+ <circle cx="742" cy="112" r="5" fill="#ff8a1f"/>
+ <g clip-path="url(#fall)"><g class="stream" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2" opacity=".85"><path d="M742 160v10M746 150v12M750 164v10M742 178v10M746 174v12M750 188v10M742 196v10M746 198v12M750 208v10M742 214v10M746 218v12M750 226v10"/></g></g>
+ <ellipse cx="745" cy="238" rx="14" ry="4" fill="#fff" opacity=".6"/>
+</g>
+
+<text x="48" y="94" font-size="46" font-weight="800" fill="#fff" letter-spacing="-1.5">Hii, I'm</text>
+<text x="46" y="156" font-size="64" font-weight="900" fill="#ff7a1a" letter-spacing="-2"><tspan fill="#fff">Y </tspan>ESWAR</text>
+<g class="mono" font-size="17" font-weight="600" fill="#fff">
+ <text class="role r1" x="50" y="196" style="animation-delay:0s">&gt; Data Scientist</text>
+ <text class="role r2" x="50" y="196">&gt; ML Engineer</text>
+ <text class="role r3" x="50" y="196">&gt; Researcher</text>
+ <text class="role r4" x="50" y="196">&gt; Gen AI builder</text>
+ <text class="role r5" x="50" y="196">&gt; Data Analyst</text>
+</g>
+<text x="50" y="236" font-size="17" fill="#fff" opacity=".95">I build things with data, code and a curious mind.</text>
+<g><rect x="48" y="256" width="206" height="38" rx="19" fill="url(#cta)" stroke="#fff" stroke-opacity=".8"/><text x="151" y="280" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">ishuu.me  →</text></g>
+</svg>
