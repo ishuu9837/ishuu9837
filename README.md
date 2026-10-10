@@ -42,7 +42,7 @@
 | **Heart Disease Prediction** | | Deep autoencoder on the UCI Heart Disease dataset, 96.3% accuracy. L1/L2 regularisation, dropout, threshold tuning, class-imbalance handling. |
 | **[Image Colourisation](https://github.com/ishuu9837/IMAGE-COLORIZATION)** | [repo](https://github.com/ishuu9837/IMAGE-COLORIZATION) | U-Net convolutional autoencoder in LAB colour space on CIFAR-10 with VGG perceptual loss. Migrated from TensorFlow to PyTorch. |
 | **[Real-Time Face Detection](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION)** | [repo](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION) | OpenCV pipeline storing detected faces in MongoDB. 1,000+ FPS, 30% speed boost. |
-| **[Galaxy Glide](https://github.com/ishuu9837/GALAXY-GLIDE)** | [repo](https://github.com/ishuu9837/GALAXY-GLIDE) | Responsive interactive front end in HTML, CSS and JavaScript. 40% faster page load, 35% higher engagement. |
+| **[Galaxy Glide](https://github.com/ishuu9837/GALAXY-GLIDE)** | [live](https://galaxy-glide.vercel.app) | Responsive interactive front end in HTML, CSS and JavaScript. 40% faster page load, 35% higher engagement. |
 
 ## Toolkit
 
