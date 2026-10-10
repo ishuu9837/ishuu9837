@@ -37,12 +37,13 @@
 | :-- | --: | :-- |
 | **Few-shot histopathology** | 🔬 | M.Tech research, in progress. Cross-domain few-shot classification of breast histopathology images: multi-scale CNN features and multi-head self-attention, adapted with MAML. BreaKHis to BACH, in PyTorch. |
 | **[EduSentinel](https://edusentinel.vercel.app)** | [live](https://edusentinel.vercel.app) | NumPy-only deep autoencoder that flags abnormal learning behaviour in LMS data across 8 features. 99.40% ROC-AUC, 100% recall. Flask demo. |
+| **[Galaxy Glide](https://github.com/ishuu9837/GALAXY-GLIDE)** | [live](https://galaxy-glide.vercel.app) | Responsive interactive front end in HTML, CSS and JavaScript. 40% faster page load, 35% higher engagement. |
 | **[Smart Energy Grids](https://smart-energy-grid-app.vercel.app)** | [live](https://smart-energy-grid-app.vercel.app) | Demand forecasting and adaptive grid control with LSTM and big data, plus an interactive energy-balance demo. |
 | **[MRS by Letterboxd](https://movie-recommendation-using-letterbo.vercel.app)** | [live](https://movie-recommendation-using-letterbo.vercel.app) | Film recommender with genre encoding and cosine similarity. Filters for title, language, year and genre. |
 | **Heart Disease Prediction** | | Deep autoencoder on the UCI Heart Disease dataset, 96.3% accuracy. L1/L2 regularisation, dropout, threshold tuning, class-imbalance handling. |
 | **[Image Colourisation](https://github.com/ishuu9837/IMAGE-COLORIZATION)** | [repo](https://github.com/ishuu9837/IMAGE-COLORIZATION) | U-Net convolutional autoencoder in LAB colour space on CIFAR-10 with VGG perceptual loss. Migrated from TensorFlow to PyTorch. |
 | **[Real-Time Face Detection](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION)** | [repo](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION) | OpenCV pipeline storing detected faces in MongoDB. 1,000+ FPS, 30% speed boost. |
-| **[Galaxy Glide](https://github.com/ishuu9837/GALAXY-GLIDE)** | [live](https://galaxy-glide.vercel.app) | Responsive interactive front end in HTML, CSS and JavaScript. 40% faster page load, 35% higher engagement. |
+
 
 ## Toolkit
 
