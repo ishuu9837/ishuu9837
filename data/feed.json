@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-10-10T16:46:03.000Z",
+  "refreshedAt": "2026-10-10T16:48:01.364Z",
   "stale": [],
   "activity": {
     "total": 8,
@@ -41,28 +41,28 @@
     ],
     "topRepos": [
       {
-        "name": "smart-energy-grid",
-        "stars": 1,
-        "lang": "JavaScript",
-        "desc": "hybrid LSTM-Transformer deep learning models for energy consumption fore"
-      },
-      {
         "name": "edusentinel",
         "stars": 1,
         "lang": "Jupyter Notebook",
-        "desc": "Deep learning system using autoencoders to detect abnormal patterns in L"
+        "desc": " Deep learning system using autoencoders to detect abnormal patterns in "
       },
       {
-        "name": "SQL-50-Leetcode",
+        "name": "GALAXY-GLIDE",
         "stars": 1,
-        "lang": null,
-        "desc": "LEETCODE SOLUTIONS OF SQL 50"
+        "lang": "JavaScript",
+        "desc": ""
       },
       {
-        "name": "SQL-Master-Journey",
+        "name": "Handwritten-digits-classification-using-ANN",
         "stars": 1,
-        "lang": "TSQL",
-        "desc": "My SQL Journey With Intellipath"
+        "lang": "Jupyter Notebook",
+        "desc": ""
+      },
+      {
+        "name": "NETFLIX-CONTENT-RECOMMENDATION",
+        "stars": 1,
+        "lang": "Jupyter Notebook",
+        "desc": "ML PROJECT"
       },
       {
         "name": "REAL-TIME-FACE-DETECTION",
@@ -71,19 +71,24 @@
         "desc": "Real Time Face Detection by open cv Which directs you to the notes app"
       },
       {
-        "name": "GALAXY-GLIDE",
+        "name": "smart-energy-grid",
         "stars": 1,
         "lang": "JavaScript",
-        "desc": ""
+        "desc": "hybrid LSTM-Transformer deep learning models for energy consumption fore"
       }
     ]
   },
-  "lastPush": null,
-  "latestPost": {
-    "title": "EduSentinel: Anomaly Detection in Education Using a ",
-    "at": "Sun, 01 Dec 2024 00:00:00 GMT"
+  "lastPush": {
+    "repo": "crypton",
+    "message": null,
+    "kind": "push",
+    "at": "2026-10-07T15:49:34Z"
   },
-  "site": null,
+  "latestPost": null,
+  "site": {
+    "status": 200,
+    "ms": 3085
+  },
   "streak": 1,
   "total": 170
 }

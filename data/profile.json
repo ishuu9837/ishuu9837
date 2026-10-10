@@ -2,38 +2,43 @@
   "name": "Y Eswar",
   "handle": "ishuu9837",
   "host": "gitam",
-  "role": "M.Tech Data Science @ GITAM",
+  "role": "Data Science Specialist · M.Tech Data Science @ GITAM",
   "site": "https://ishuu.me",
-  "rss": "",
-  "latest": {
-    "title": "EduSentinel: Anomaly Detection in Education Using a Deep Autoencoder",
-    "at": "2024-12-01"
-  },
+  "rss": null,
   "banner": "ESWAR",
+  "signature": "Y Eswar",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India"
+  },
+  "latitude": 17.385,
+  "longitude": 78.4867,
+  "utcOffsetHours": 5.5,
   "lines": [
     [
       "whoami",
-      "Y Eswar · M.Tech Data Science @ GITAM"
+      "Y Eswar · Data Science Specialist"
     ],
     [
       "now",
-      "few-shot histopathology classification · meta-learning (MAML) · BreaKHis to BACH"
+      "M.Tech Data Science @ GITAM · Hyderabad"
     ],
     [
-      "prev",
-      "B.Tech CSE (AI), Parul University · Python intern at Slash Mark IT, OctaNet"
+      "focus",
+      "Few-shot learning · histopathology · meta-learning"
     ],
     [
-      "oss",
-      "EduSentinel · Smart Energy Grids · MRS Letterboxd · Face Detection · Galaxy Glide"
+      "build",
+      "EduSentinel · smart energy · computer vision"
     ],
     [
-      "pubs",
-      "EduSentinel and Real-Time Face Detection on ResearchGate, Dec 2024"
+      "open",
+      "ML Engineer · Data Scientist · Gen AI · Analytics"
     ],
     [
       "base",
-      "Hyderabad · remote friendly · ishuu.me"
+      "Hyderabad, Telangana · remote friendly · ishuu.me"
     ]
   ]
 }

@@ -22,6 +22,7 @@ import { readFileSync, writeFileSync } from 'node:fs';
 
 const read = (f) => JSON.parse(readFileSync(new URL(`../data/${f}`, import.meta.url), 'utf8'));
 const P = read('profile.json');
+const PROFILE = P;
 const CONTRIB = read('contributions.json');
 const FEED = read('feed.json');
 const FONTS = read('fonts.json');
@@ -154,10 +155,6 @@ const GLYPHS = {
   H: ['10001','10001','10001','11111','10001','10001','10001'],
   U: ['10001','10001','10001','10001','10001','10001','01110'],
   S: ['01111','10000','10000','01110','00001','00001','11110'],
-  E: ['11111','10000','10000','11110','10000','10000','11111'],
-  W: ['10001','10001','10001','10101','10101','11011','10001'],
-  R: ['11110','10001','10001','11110','10100','10010','10001'],
-  Y: ['10001','10001','01010','00100','00100','00100','00100'],
   ' ': ['00000','00000','00000','00000','00000','00000','00000'],
 };
 
@@ -443,7 +440,7 @@ function live(t) {
       { key: 'activity', label: 'LONGEST STREAK', value: CONTRIB.longest == null ? dash : `${CONTRIB.longest}d`, sub: 'this year' },
       { key: 'lastPush', label: 'LAST PUSH', value: FEED.lastPush ? FEED.lastPush.repo.slice(0, 15) : dash,
         sub: FEED.lastPush ? fmtTs(FEED.lastPush.at) : '' },
-      { key: 'latestPost', label: 'LATEST PAPER', value: post ? monthYear(post.at) : dash, sub: post?.title ?? '' },
+      { key: 'latestPost', label: 'LATEST POST', value: post ? monthYear(post.at) : dash, sub: post?.title ?? '' },
       { key: 'site', label: 'PORTFOLIO', value: site ? (site.status === 200 ? 'UP' : String(site.status)) : dash,
         sub: site ? `${site.status} · ${site.ms} ms` : '' },
     ],
@@ -619,10 +616,10 @@ function rng(seed) {
 }
 
 /**
- * The opening plate: a Firewatch-style wallpaper as pixel art, a cat on
- * the near hill watching the sky. The scene follows the clock in Hyderabad: the
- * refresh workflow redraws every six hours (05:47, 11:47, 17:47 and 23:47
- * IST), so the profile shows dawn in the morning, dusk through the day and
+ * The opening plate: a Firewatch-inspired pixel-art landscape, with a cat on
+ * the near hill watching the sky. The scene follows the owner's local clock:
+ * the refresh workflow redraws every six hours, so the profile shows dawn in
+ * the morning, dusk through the day and
  * night after dark. SCENE=dawn|dusk|night overrides it for local previews.
  *
  * A real framebuffer, not chunky vectors: the scene is painted into a cell
@@ -634,7 +631,9 @@ const CW = 5, GW = 172, GH = 72, W = GW * CW, H = GH * CW;
 
 function sceneNow() {
   if (process.env.SCENE) return process.env.SCENE;
-  const h = (new Date().getUTCHours() + 5.5 + new Date().getUTCMinutes() / 60) % 24;
+  const offset = Number(P.utcOffsetHours ?? 5.5);
+  const local = new Date(Date.now() + offset * 60 * 60 * 1000);
+  const h = local.getUTCHours() + local.getUTCMinutes() / 60;
   if (h >= 4 && h < 10) return 'dawn';
   if (h >= 10 && h < 19) return 'dusk';
   return 'night';
@@ -814,6 +813,12 @@ function paint(mode) {
 
 function scenery(t) {
   const mode = SCENE;
+  const location = PROFILE.location ?? {};
+  const city = location.city ?? 'Hyderabad';
+  const region = location.state ?? '';
+  const latitude = Number(PROFILE.latitude ?? 17.385);
+  const longitude = Number(PROFILE.longitude ?? 78.4867);
+  const coordinateLabel = `${Math.abs(latitude).toFixed(1)}°${latitude >= 0 ? 'N' : 'S'} ${Math.abs(longitude).toFixed(1)}°${longitude >= 0 ? 'E' : 'W'} · ${city.toUpperCase()}`;
   const { buf, P, CATX, CATY, SUNX, LAKE_TOP, cabin } = paint(mode);
   const rows = [];
   for (let y = 0; y < GH; y++) { let x = 0; while (x < GW) { const c = buf[y][x]; let x2 = x; while (x2 < GW && buf[y][x2] === c) x2++; if (c) rows.push(`<rect x="${x * CW}" y="${y * CW}" width="${(x2 - x) * CW}" height="${CW}" fill="${c}"/>`); x = x2; } }
@@ -842,17 +847,17 @@ function scenery(t) {
   }
 
   const cap = P.caption;
-  const sig = `<clipPath id="sigWipe"><rect x="24" y="${H - 52}" width="130" height="42"><animate attributeName="width" values="0;130;130" keyTimes="0;0.32;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
-  <g clip-path="url(#sigWipe)"><text x="28" y="${H - 22}" font-family="${MONO}" font-size="15" fill="${cap}" opacity="0.7">&lt;</text><text x="40" y="${H - 22}" font-family="${SCRIPT}" font-size="25" fill="${cap}">Y Eswar</text><text x="122" y="${H - 22}" font-family="${MONO}" font-size="15" fill="${cap}" opacity="0.7">/&gt;</text></g>`;
+  const sig = `<clipPath id="sigWipe"><rect x="24" y="${H - 52}" width="250" height="42"><animate attributeName="width" values="0;250;250" keyTimes="0;0.32;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
+  <g clip-path="url(#sigWipe)"><text x="28" y="${H - 22}" font-family="${MONO}" font-size="15" fill="${cap}" opacity="0.7">&lt;</text><text x="40" y="${H - 22}" font-family="${SCRIPT}" font-size="25" fill="${cap}">${esc(PROFILE.signature || PROFILE.name)}</text><text x="221" y="${H - 22}" font-family="${MONO}" font-size="15" fill="${cap}" opacity="0.7">/&gt;</text></g>`;
   const body = `<defs><clipPath id="pxPlate"><rect width="${W}" height="${H}" rx="6"/></clipPath></defs>
   <g clip-path="url(#pxPlate)" shape-rendering="crispEdges">${rows.join('')}${over}</g>
   ${sig}
-  <text x="${W - 18}" y="${H - 16}" text-anchor="end" font-family="${MONO}" font-size="9.5" letter-spacing="2.4" fill="${cap}" opacity="0.85">17.4\u00b0N 78.5\u00b0E \u00b7 HYDERABAD</text>
+  <text x="${W - 18}" y="${H - 16}" text-anchor="end" font-family="${MONO}" font-size="9.5" letter-spacing="2.4" fill="${cap}" opacity="0.85">${esc(coordinateLabel)}</text>
   <rect width="${W}" height="${H}" rx="6" fill="none" stroke="${t.line}"/>
 `;
   const words = { dawn: 'Dawn over the lake, mist on the water', dusk: 'Dusk over the lake', night: 'Night over the lake, one window lit' }[mode];
   return doc({ w: W, h: H, title: `${words}, in pixels`,
-    desc: `A pixel-art scene after the Firewatch wallpaper that follows the time in Hyderabad, currently ${mode}: stepped ridges, a lake, pixel pines, and a cat on the hill watching the sky. Signed Y Eswar. Hyderabad.`, body });
+    desc: `A Firewatch-inspired pixel-art scene following the time in ${city}, currently ${mode}: stepped ridges, a lake, pixel pines, and a cat on the hill watching the sky. Signed ${PROFILE.name}. ${city}${region ? `, ${region}` : ''}.`, body });
 }
 
 /* ------------------------------------------------------------------ run ---- */

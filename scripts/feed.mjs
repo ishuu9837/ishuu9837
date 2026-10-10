@@ -60,7 +60,7 @@ const lastPush = await field('lastPush', async () => {
   // "no activity" while a push from an hour ago sat right there. Take the
   // event for repo + timestamp; treat the message as a bonus.
   // The profile repo pushes to itself every six hours, so without this
-  // filter LAST PUSH would forever read the handle itself — self-referential noise.
+  // filter LAST PUSH would forever read "anzal1" — self-referential noise.
   const notSelf = (e) => e.repo && e.repo.name.toLowerCase() !== `${P.handle}/${P.handle}`;
   const push = events.find((e) => e.type === 'PushEvent' && notSelf(e))
     ?? events.find(notSelf);
@@ -74,11 +74,9 @@ const lastPush = await field('lastPush', async () => {
   };
 });
 
-/* ---- latest post: RSS, no auth (or static publication) ----------------- */
+/* ---- latest post: RSS, no auth ----------------------------------------- */
 
-const latestPost = await field('latestPost', async () => {
-  // No blog? profile.json carries a static `latest` entry (newest publication).
-  if (!P.rss && P.latest) return { title: P.latest.title.slice(0, 52), at: P.latest.at };
+const latestPost = P.rss ? await field('latestPost', async () => {
   const res = await fetch(P.rss, { headers: UA, signal: AbortSignal.timeout(15000) });
   if (!res.ok) throw new Error(`feed -> ${res.status}`);
   const xml = await res.text();
@@ -92,7 +90,7 @@ const latestPost = await field('latestPost', async () => {
     .replace(/&amp;/g, '&').replace(/&#39;|&apos;/g, "'").replace(/&quot;/g, '"');
   if (!title) throw new Error('item had no title');
   return { title: title.slice(0, 52), at: pick('pubDate') };
-});
+}) : null;
 
 /* ---- profile stats: followers, repos, stars, languages ------------------ */
 
