@@ -1,0 +1,46 @@
+name: Refresh plates
+
+# Daily at 12:00 AM IST (18:30 UTC): re-check GitHub activity and rebuild
+# the animated profile plates from fresh data, then commit them back.
+on:
+  schedule:
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Refresh contribution data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/contributions.mjs
+
+      - name: Refresh live feed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/feed.mjs
+
+      - name: Rebuild plates
+        run: node scripts/plates.mjs
+
+      - name: Commit refreshed plates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add \
+            assets/live-dark.svg assets/live-light.svg \
+            assets/skyline-dark.svg \
+            assets/journey-dark.svg assets/journey-light.svg \
+            data/feed.json data/contributions.json
+          git diff --cached --quiet || git commit -m "chore: daily plate refresh ($(date -u +%F))"
+          git push
