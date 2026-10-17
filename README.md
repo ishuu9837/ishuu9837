@@ -72,9 +72,7 @@
 | Period | Company | Role |
 | :-- | :-- | :-- |
 | Jan–Jul 2025 | **Freelancer.com** | Personal Tutor — Maths, Statistics & Python |
-| Jan–Apr 2025 | **Slash Mark IT Solutions (OPC) Pvt. Ltd.** | Python Developer Intern |
 | Nov 2024–May 2025 | **Fiverr** | Freelance Researcher |
-| May–Jun 2024 | **OctaNet Services Pvt. Ltd.** | Python Developer Intern |
 
 <details>
 <summary><b>The detail</b></summary>
