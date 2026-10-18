@@ -1,22 +1,22 @@
 {
-  "refreshedAt": "2026-10-17T20:47:52.859Z",
+  "refreshedAt": "2026-10-18T20:56:49.334Z",
   "stale": [],
   "activity": {
-    "total": 15,
+    "total": 25,
     "daily": [
-      3,
       4,
       2,
       2,
       1,
       2,
-      1
+      1,
+      13
     ]
   },
   "github": {
     "followers": 8,
-    "repos": 22,
-    "stars": 9,
+    "repos": 24,
+    "stars": 12,
     "languages": [
       {
         "name": "Jupyter Notebook",
@@ -27,19 +27,25 @@
         "count": 3
       },
       {
+        "name": "HTML",
+        "count": 3
+      },
+      {
         "name": "TypeScript",
         "count": 2
       },
       {
-        "name": "HTML",
-        "count": 2
-      },
-      {
-        "name": "TSQL",
+        "name": "Swift",
         "count": 1
       }
     ],
     "topRepos": [
+      {
+        "name": "Miracle",
+        "stars": 3,
+        "lang": "Swift",
+        "desc": "A file converter mac app , that doesnt upload your files somewhere "
+      },
       {
         "name": "edusentinel",
         "stars": 1,
@@ -69,26 +75,20 @@
         "stars": 1,
         "lang": "HTML",
         "desc": "Real Time Face Detection by open cv Which directs you to the notes app"
-      },
-      {
-        "name": "smart-energy-grid",
-        "stars": 1,
-        "lang": "JavaScript",
-        "desc": "hybrid LSTM-Transformer deep learning models for energy consumption fore"
       }
     ]
   },
   "lastPush": {
-    "repo": "SQL-50-Leetcode",
+    "repo": "crypton",
     "message": null,
     "kind": "push",
-    "at": "2026-10-16T15:15:37Z"
+    "at": "2026-10-18T09:56:55Z"
   },
   "latestPost": null,
   "site": {
     "status": 200,
-    "ms": 608
+    "ms": 602
   },
-  "streak": 8,
-  "total": 192
+  "streak": 9,
+  "total": 205
 }
