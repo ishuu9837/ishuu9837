@@ -31,10 +31,12 @@
   <img alt="Live GitHub dashboard for recent public activity, streaks, stars, followers, repositories, last push, portfolio uptime and language mix. Refreshed by GitHub Actions." src="assets/live-light.svg" width="860">
 </picture>
 
+
 ## Projects
 
 | Project | | What it is |
 | :-- | --: | :-- |
+| **[Miracle](https://github.com/ishuu9837/miracle)** | [live](https://miracle-three-rho.vercel.app/) · [repo](https://github.com/ishuu9837/miracle) | Free, open-source, privacy-first desktop file converter for macOS and Windows. Converts images, documents, PDFs, audio, video and archives locally without uploading files to servers. Features a Shift-triggered conversion wheel, drag-and-drop interactions and offline processing. Built with Swift, SwiftUI and AppKit for macOS; C#, WPF and .NET 10 for Windows (x64/ARM64). MIT licensed. |
 | **Few-shot histopathology** | 🔬 | M.Tech research, in progress. Cross-domain few-shot classification of breast histopathology images: multi-scale CNN features and multi-head self-attention, adapted with MAML. BreaKHis to BACH, in PyTorch. |
 | **[EduSentinel](https://edusentinel.vercel.app)** | [live](https://edusentinel.vercel.app) | NumPy-only deep autoencoder that flags abnormal learning behaviour in LMS data across 8 features. 99.40% ROC-AUC, 100% recall. Flask demo. |
 | **[Galaxy Glide](https://github.com/ishuu9837/GALAXY-GLIDE)** | [live](https://galaxy-glide.vercel.app) | Responsive interactive front end in HTML, CSS and JavaScript. 40% faster page load, 35% higher engagement. |
@@ -43,7 +45,6 @@
 | **Heart Disease Prediction** | | Deep autoencoder on the UCI Heart Disease dataset, 96.3% accuracy. L1/L2 regularisation, dropout, threshold tuning, class-imbalance handling. |
 | **[Image Colourisation](https://github.com/ishuu9837/IMAGE-COLORIZATION)** | [repo](https://github.com/ishuu9837/IMAGE-COLORIZATION) | U-Net convolutional autoencoder in LAB colour space on CIFAR-10 with VGG perceptual loss. Migrated from TensorFlow to PyTorch. |
 | **[Real-Time Face Detection](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION)** | [repo](https://github.com/ishuu9837/REAL-TIME-FACE-DETECTION) | OpenCV pipeline storing detected faces in MongoDB. 1,000+ FPS, 30% speed boost. |
-
 
 ## Toolkit
 
