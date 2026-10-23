@@ -94,7 +94,7 @@
 
 </details>
 
-## Current research
+## Current research.
 
 **Few-Shot Learning for Breast Histopathological Image Classification Using Meta-Learning** · *In progress*
 
