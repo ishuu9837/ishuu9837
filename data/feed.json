@@ -1,15 +1,15 @@
 {
-  "refreshedAt": "2026-10-25T21:02:32.669Z",
+  "refreshedAt": "2026-10-26T22:49:00.362Z",
   "stale": [],
   "activity": {
-    "total": 95,
+    "total": 87,
     "daily": [
-      8,
       0,
       79,
       5,
       2,
       1,
+      0,
       0
     ]
   },
@@ -87,7 +87,7 @@
   "latestPost": null,
   "site": {
     "status": 200,
-    "ms": 592
+    "ms": 760
   },
   "streak": 0,
   "total": 300
