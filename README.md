@@ -36,6 +36,7 @@
 
 | Project | | What it is |
 | :-- | --: | :-- |
+| **[Llama 3.2 Finance QA](https://github.com/ishuu9837/Fine-tuning-Llama-3.2)** | [repo](https://github.com/ishuu9837/Fine-tuning-Llama-3.2) | LoRA fine-tuning with a base-vs-fine-tuned comparison: answer token F1 21.03% → 39.18% on 50 mixed finance/general test examples. |
 | **[Miracle](https://github.com/ishuu9837/miracle)** | [live](https://miracle-three-rho.vercel.app/) · [repo](https://github.com/ishuu9837/miracle) | Free, open-source, privacy-first desktop file converter for macOS and Windows. Converts images, documents, PDFs, audio, video and archives locally without uploading files to servers. Features a Shift-triggered conversion wheel, drag-and-drop interactions and offline processing. Built with Swift, SwiftUI and AppKit for macOS; C#, WPF and .NET 10 for Windows (x64/ARM64). MIT licensed. |
 | **Few-shot histopathology** | 🔬 | M.Tech research, in progress. Cross-domain few-shot classification of breast histopathology images: multi-scale CNN features and multi-head self-attention, adapted with MAML. BreaKHis to BACH, in PyTorch. |
 | **[EduSentinel](https://edusentinel.vercel.app)** | [live](https://edusentinel.vercel.app) · [repo](https://github.com/ishuu9837/edusentinel) | NumPy autoencoder that flags abnormal learning behaviour across 8 LMS features. 88.42% accuracy, 94.52% ROC-AUC, 76.67% recall on 1,019 records (including training data). Next.js demo with trained-model inference. |
