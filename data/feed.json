@@ -1,22 +1,22 @@
 {
-  "refreshedAt": "2026-11-18T01:07:36.141Z",
+  "refreshedAt": "2026-11-19T00:38:37.791Z",
   "stale": [],
   "activity": {
-    "total": 0,
+    "total": 1,
     "daily": [
       0,
       0,
       0,
       0,
       0,
-      0,
+      1,
       0
     ]
   },
   "github": {
     "followers": 10,
-    "repos": 27,
-    "stars": 13,
+    "repos": 26,
+    "stars": 38,
     "languages": [
       {
         "name": "Jupyter Notebook",
@@ -42,37 +42,37 @@
     "topRepos": [
       {
         "name": "Miracle",
-        "stars": 4,
+        "stars": 5,
         "lang": "Swift",
         "desc": "A file converter mac app , that doesnt upload your files somewhere "
       },
       {
         "name": "edusentinel",
-        "stars": 1,
+        "stars": 2,
         "lang": "Jupyter Notebook",
         "desc": " Deep learning system using autoencoders to detect abnormal patterns in "
       },
       {
         "name": "GALAXY-GLIDE",
-        "stars": 1,
+        "stars": 2,
         "lang": "JavaScript",
         "desc": ""
       },
       {
         "name": "Handwritten-digits-classification-using-ANN",
-        "stars": 1,
+        "stars": 2,
         "lang": "Jupyter Notebook",
         "desc": ""
       },
       {
         "name": "NETFLIX-CONTENT-RECOMMENDATION",
-        "stars": 1,
+        "stars": 2,
         "lang": "Jupyter Notebook",
         "desc": "ML PROJECT"
       },
       {
         "name": "REAL-TIME-FACE-DETECTION",
-        "stars": 1,
+        "stars": 2,
         "lang": "HTML",
         "desc": "Real Time Face Detection by open cv Which directs you to the notes app"
       }
@@ -87,8 +87,8 @@
   "latestPost": null,
   "site": {
     "status": 200,
-    "ms": 296
+    "ms": 692
   },
   "streak": 0,
-  "total": 371
+  "total": 372
 }
